@@ -1,0 +1,13 @@
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bin\Debug\resources.pri
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bin\Debug\AppxManifest.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bin\Debug\BirthdayCountdown.build.appxrecipe
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\priconfig.xml.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\layout.resfiles.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\resources.resfiles.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\pri.resfiles.intermediate
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\priconfig.xml
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\layout.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\resources.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\pri.resfiles
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\LanguageQualifiers.txt
+C:\Users\Matt\Documents\Visual Studio 2012\Projects\BirthdayCountdown\BirthdayCountdown\bld\Debug\ProjectArchitectures.txt

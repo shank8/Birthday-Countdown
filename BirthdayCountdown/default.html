@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>BirthdayCountdown</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-light.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+   
+
+    <!-- BirthdayCountdown references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/jquery.js"></script>
+    <script src="/js/default.js"></script>
+    
+</head>
+<body>
+    <!-- Display only on first time use -->
+    <div id="init" class="visible">
+        <div id="dateWrapper">
+            <h2>Please enter your birthday</h2><br />
+        <div id="datePicker"></div>
+           
+        <button id="dateSubmit" onclick="saveBirthday()">Submit</button>
+        </div>
+    </div>
+
+    <div id="main" class="hidden">
+          <section id="bdayText">
+         <h1 id="bdayDisplay"></h1><br />
+         <h1> and will arrive in</h1>
+          </section>
+        <div id="counter">
+
+
+        </div>
+    </div>
+  
+</body>
+</html>

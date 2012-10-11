@@ -1,0 +1,63 @@
+﻿body h1, h2, h3, h4 {
+    font-family: 'Lucida Calligraphy', 'Times New Roman';
+    color:#fff;
+}
+
+
+#init, #main {
+    width:100%;
+    height:100%;
+    position:absolute;
+}
+#init {
+    background:#000;
+}
+#main {
+    background:#000;
+    left:0;
+    top:0;
+}
+#dateSubmit {
+    height:30px;
+    width:75px;
+    position:relative;
+    margin:5px 0 0 5px;
+    border:groove 2px #fff;
+    background: rgba(255,255,255,0.5);
+}
+    #dateSubmit:hover {
+        background: rgba(255, 255, 255, 1);
+    }
+#datePicker {
+   
+
+}
+#bdayText {
+    position:relative;
+    height:400px;
+    width:80%;
+   /* background-color:blue;*/
+    margin:100px 0 0 10%;
+    text-align:center;
+}
+#dateWrapper {
+       position:relative;
+       margin:300px auto;
+      width:500px;
+       height:50px;
+      text-align:center;
+       vertical-align:middle;
+}
+ 
+.visible {
+    display:block;
+}
+.hidden {
+    display:none;
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
